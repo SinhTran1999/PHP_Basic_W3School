@@ -22,7 +22,6 @@
         function family_Name($fname, $year) {
         echo "$fname Refsnes. Born in $year <br>";
         }
-
         family_Name("Hege","1975");
         family_Name("Stale","1978");
         family_Name("Kai Jim","1983");
